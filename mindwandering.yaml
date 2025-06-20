@@ -1,0 +1,7 @@
+path: ./data
+train: images/train
+val: images/val
+names:
+  0: eye_closed
+  1: looking_away
+  2: head_down
